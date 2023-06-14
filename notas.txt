@@ -1,0 +1,6 @@
+--crear proyecto
+npm init -y
+--instalar axios
+npm i axios
+--instalar dotenv para acceder a variables de entorno
+npm install dotenv
